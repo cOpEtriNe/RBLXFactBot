@@ -1,8 +1,10 @@
-This is a bot i made that says random facts, they are useless facts from a site (https://bestlifeonline.com/useless-facts/) 
-it's not so random, because the facts are in a order set by me, you can mix these up if you wish.
-i'll update this most of the time, i'm planning to add a GUI to this for better customization. Like How Fast the bot talks, or to stop the bot.
-While writing this i might add a not so secret admin command to activate it or de-activate it you can edit this is if you wan't.
-The Website Is avalible at: https://copetrine.github.io/   (sorry for the old tf2 stuff on the site, i've not updated the website for a while as you can see, haha.)
-If the website is down, i will look into it.
+A fact bot made by me, you can visit https://copetrine.github.io/   for random stuff i made 
+The Fact bot has gone through a lot of updates.
+Most of the updates was not released on github
+There are 2 bots
+1)The RBLXFactBot
+2)The Numberbot (not automatic yet, meaning it wont say a random number every 5 seconds.)
+and that's it. gonnna plan to add more bot things
 
-Enjoy.
+
+Source for the fact bot:https://bestlifeonline.com/useless-facts/
