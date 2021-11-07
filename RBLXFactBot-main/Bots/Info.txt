@@ -1,0 +1,2 @@
+The numberbot isnt automatic, meaning it doesn't say a number every 5 seconds.
+i will make it automatic like the fact bot soon.
