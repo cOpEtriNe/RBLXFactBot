@@ -1,0 +1,12 @@
+To set the bot up, you will need:
+A executor
+A Computer
+The ROBLOX Client
+and the script on my github
+1) open you executor
+2) open any game
+3) get the script from my github (https://github.com/cOpEtriNe/RBLXFactBot/blob/main/RBLXFACTBOT.lua)
+4) inject your executor into the ROBLOX client 
+5) copy the contents from my script ALL OF THE SCRIPT, execute the script
+Aaaaand done! you have used my script, if there is any bugs, contact me at my github or cOpEtriNe#4559 on discord
+you can also use a afk script to leave it running, to not get kicked from the server.
