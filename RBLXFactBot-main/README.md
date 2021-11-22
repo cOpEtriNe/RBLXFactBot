@@ -1,4 +1,4 @@
--- THIS IS AN OLD README FILE
+-- THIS IS AN OLD README FILE, MEANING THAT SOMETHINGS ARE WRONG.
 
 A fact bot made by me, you can visit https://copetrine.github.io/   for random stuff i made 
 The Fact bot has gone through a lot of updates.
