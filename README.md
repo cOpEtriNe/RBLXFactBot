@@ -1,5 +1,5 @@
 To use the scripts goto the "Bots" Folder to get the script
-or just install it from the latest released 
+or just install it from the latest release
 
 
 all facts from https://bestlifeonline.com/useless-facts/
