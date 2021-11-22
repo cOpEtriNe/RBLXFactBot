@@ -3,7 +3,7 @@ A executor
 A Computer
 The ROBLOX Client
 and the script on my github
-1) open you executor
+1) open your executor
 2) open any game
 3) get the script from my github (https://github.com/cOpEtriNe/RBLXFactBot/blob/main/RBLXFACTBOT.lua)
 4) inject your executor into the ROBLOX client 
