@@ -10,3 +10,8 @@ and the script on my github
 5) copy the contents from my script ALL OF THE SCRIPT, execute the script
 Aaaaand done! you have used my script, if there is any bugs, contact me at my github or cOpEtriNe#4559 on discord
 you can also use a afk script to leave it running, to not get kicked from the server.
+
+Another way is to 
+1) Know How to exploit, Inject, Execute and know the basics
+2) Download the latest Release instead of copying it from my github (Going through all of the files basically)
+That is the ways. I have no other ways .
