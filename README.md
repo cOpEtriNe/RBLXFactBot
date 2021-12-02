@@ -11,7 +11,5 @@ https://github.com/WasherJ https://github.com/cOpEtriNe https://github.com/BotHu
 enjoy the script
 
 
---my pc broke while trying to dual boot manjaro. I've had to install windows 7 because ive lost my windows 10 stuff(cOpEtriNe) --no Script updates from now. 11/11/21
-
-
+-- i am able to update this script again because i have installed a exploit and .Net Frameworks to get it to run.
 
