@@ -1,12 +1,8 @@
--- THIS IS AN OLD README FILE, MEANING THAT SOMETHINGS ARE WRONG.
-
-A fact bot made by me, you can visit https://copetrine.github.io/   for random stuff i made 
-The Fact bot has gone through a lot of updates.
-Most of the updates was not released on github
-There are 2 bots
-1)The RBLXFactBot
-2)The Numberbot (not automatic yet, meaning it wont say a random number every 5 seconds.)
-and that's it. gonnna plan to add more bot things
-
-
-Source for the fact bot:https://bestlifeonline.com/useless-facts/
+If you are looking through this folder.
+If you are not sure where the bots are.
+they are located in the "Bots" folder.
+You can find different types of bot scripts there.
+And yes, you will have to get a new update everytime, because there is no auto updater (Obviously).
+But don't worry we will make sure we find almost every bug, so that you can get the latest scripts.
+so that there is not a update every second.
+Enjoy.
