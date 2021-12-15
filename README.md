@@ -8,7 +8,7 @@ https://github.com/BotHuntin
 
 https://github.com/StrickenNoyade
 
-#Help
+# Help
 
 Goto The "RBLXFactBot-main" folder to see information on how to set the bots up.
 
