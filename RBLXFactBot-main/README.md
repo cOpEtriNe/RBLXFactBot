@@ -1,3 +1,4 @@
+# How to find the scripts
 If you are looking through this folder.
 
 If you are not sure where the bots are.
