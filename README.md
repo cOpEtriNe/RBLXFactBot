@@ -14,6 +14,8 @@ discord server : https://discord.gg/GUMDbP7TfZ
 
 telegram(no longer used) : https://t.me/BoatRollerz
 
+website(if it is working) https://strickennoyade.github.io/FactBot.github.io/
+
 # Credits
 updates from: 
 
