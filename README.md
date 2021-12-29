@@ -6,6 +6,8 @@ If this is detected by roblox, or someone gets banned for using it. Then we will
 
 to update it.
 
+this script does infact work with multiple clients.
+
 If you don't fully know how to use this bot.
 
 Dont Worry, later i will make the setup make more sense.(Just wait for that day haha)
