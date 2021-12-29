@@ -11,7 +11,8 @@ If you don't fully know how to use this bot.
 Dont Worry, later i will make the setup make more sense.(Just wait for that day haha)
 
 discord server : https://discord.gg/GUMDbP7TfZ
-telegram(no longer used) : t.me/BoatRollerz
+
+telegram(no longer used) : https://t.me/BoatRollerz
 
 # Credits
 updates from: 
