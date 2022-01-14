@@ -1,4 +1,5 @@
---added stuff
+-- added stuff
+-- script is just some random gui 4 games
 
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
