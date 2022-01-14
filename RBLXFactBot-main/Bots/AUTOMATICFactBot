@@ -1,6 +1,7 @@
 -- this is the automatic version of the fact bot.
 -- this is for people who want to host fact bots for a long time, maybe around 10 - 5 bots or so
 -- it doesnt really matter.
+-- also use a anti-afk script if u wanna use this for a looong time
 
 
 while true do
@@ -26,6 +27,7 @@ while true do
 		Event:FireServer(A_1, A_2)
 
 		wait(5)
+		
 		local A_1 = " The opposite sides of a die will always add up to seven."
 		local A_2 = "All"
 		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
@@ -151,7 +153,6 @@ while true do
 
 		wait(5)
 
-
 		local A_1 = "Golf balls tend to have 336 dimples."
 		local A_2 = "All"
 		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
@@ -254,7 +255,6 @@ while true do
 		local A_2 = "All"
 		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 		Event:FireServer(A_1, A_2)
-
 
 		wait(5)
 
@@ -419,7 +419,6 @@ while true do
 
 		wait(5)
 
-
 		local A_1 = "There's an optical illusion at bottom of the sea. "
 		local A_2 = "All"
 		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
@@ -431,7 +430,6 @@ while true do
 		local A_2 = "All"
 		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 		Event:FireServer(A_1, A_2)
-
 
 		wait(5)
 
