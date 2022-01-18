@@ -2,9 +2,8 @@
 
 Goto The "RBLXFactBot-main" folder to see information on how to set the bots up.
 
-If this is detected by roblox, or someone gets banned for using it. Then we will try 
+If this is detected by roblox, or someone gets banned for using it. Then we will try to update it.
 
-to update it.
 
 this script does infact work with multiple clients.
 
